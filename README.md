@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# CMP.LY JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript.* Adapted from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript).
 
 
 ## Table of Contents
